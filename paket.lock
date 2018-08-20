@@ -1,0 +1,8 @@
+STORAGE: NONE
+RESTRICTION: == netstandard2.0
+NUGET
+  remote: https://www.nuget.org/api/v2
+    FSharp.Core (4.5.2)
+    FSharp.Data (2.4.6)
+      Zlib.Portable (>= 1.11)
+    Zlib.Portable (1.11)
